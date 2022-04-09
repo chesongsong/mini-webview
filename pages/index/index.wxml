@@ -1,2 +1,2 @@
 
-<web-view src="https://moroll.tech/guide.html"></web-view>
+<web-view wx:if="url" src="{{url}}" ></web-view>

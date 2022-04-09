@@ -1,0 +1,2 @@
+
+<Button bindtap="navigateFn">跳转index</Button>
